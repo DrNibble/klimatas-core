@@ -63,7 +63,7 @@
     <message>
         <source>Edit label for the selected address:
 %1</source>
-        <translation>Modifier le libellé pour l'adresse sélectionnée:
+        <translation>Modifier le libellé pour l'adresse sélectionnée :
 %1</translation>
     </message>
 </context>
@@ -131,15 +131,15 @@
     </message>
     <message>
         <source>These are your KTS addresses for sending payments. Always check the amount and the receiving address before sending coins.</source>
-        <translation>Voici vos adresses KTS pour envoyer des paiements.  Assurez-vous de toujours vérifier le montant et l'adresse de réception avant d'envoyer les jetons</translation>
+        <translation>Voici vos adresses KTS pour envoyer des paiements.  Assurez-vous de toujours vérifier le montant et l'adresse de réception avant d'envoyer les jetons.</translation>
     </message>
     <message>
         <source>These are your KTS addresses for receiving payments. It is recommended to use a new receiving address for each transaction.</source>
-        <translation>Voici vos adresses KTS pour les réceptions de vos paiments. Il est recommandé d'utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
+        <translation>Voici vos adresses KTS pour la réception de vos paiments. Il est recommandé d'utiliser une nouvelle adresse de réception pour chaque transaction.</translation>
     </message>
     <message>
         <source>&amp;Copy Address</source>
-        <translation>Copier l'adresse</translation>
+        <translation>&amp;Copier l'adresse</translation>
     </message>
     <message>
         <source>Copy &amp;Label</source>
@@ -147,7 +147,7 @@
     </message>
     <message>
         <source>&amp;Edit</source>
-        <translation>Modifier</translation>
+        <translation>&amp;Modifier</translation>
     </message>
     <message>
         <source>Export Address List</source>
@@ -240,7 +240,7 @@
     </message>
     <message>
         <source>No contacts yet</source>
-        <translation>Pas encore de contacts</translation>
+        <translation>Pas encore de contact</translation>
     </message>
     <message>
         <source>e.g. John Doe</source>
@@ -264,7 +264,7 @@
     </message>
     <message>
         <source>Address already stored, label: %1</source>
-        <translation>Adresse déjà enregistrée, étiquette: %1</translation>
+        <translation>Adresse déjà enregistrée, étiquette : %1</translation>
     </message>
     <message>
         <source>New Contact Stored</source>
@@ -327,7 +327,7 @@ Are you sure?</source>
     </message>
     <message>
         <source>Enter the new passphrase to the wallet.&lt;br/&gt;Please use a passphrase of &lt;b&gt;ten or more random characters&lt;/b&gt;, or &lt;b&gt;eight or more words&lt;/b&gt;.</source>
-        <translation>Entrez la nouvelle phrase secrète dans le portefeuille.&lt;br/&gt;Utilisez s'il vous plaît une phrase secrète de :&lt;b&gt; 10 caractères au hasard ou plus&lt;/b&gt;, ou&lt;b&gt; huit mots ou plus&lt;/b&gt;.</translation>
+        <translation>Entrez la nouvelle phrase secrète du portefeuille.&lt;br/&gt;Utilisez s'il vous plaît une phrase secrète de :&lt;b&gt; 10 caractères au hasard ou plus&lt;/b&gt;, ou&lt;b&gt; huit mots ou plus&lt;/b&gt;.</translation>
     </message>
     <message>
         <source>Encrypt wallet</source>
@@ -361,7 +361,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Enter the old and new passphrase to the wallet.</source>
-        <translation>Entrer l'ancienne et la nouvelle phrase secrète dans le portefeuille</translation>
+        <translation>Entrer l'ancienne et la nouvelle phrase secrète du portefeuille</translation>
     </message>
     <message>
         <source>Confirm wallet encryption</source>
@@ -381,7 +381,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Are you sure you wish to encrypt your wallet?</source>
-        <translation>Êtes-vous sûr de vouloir crypter votre portefeuille?</translation>
+        <translation>Êtes-vous sûr de vouloir crypter votre portefeuille ?</translation>
     </message>
     <message>
         <source>Warning: If you encrypt your wallet and lose your passphrase, you will &lt;b&gt;LOSE ALL OF YOUR KTS&lt;/b&gt;!</source>
@@ -429,7 +429,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Warning: The Caps Lock key is on!</source>
-        <translation>Attention : la touche de verrouillage des majuscules est activée.</translation>
+        <translation>Attention : la touche de verrouillage des majuscules est activée !</translation>
     </message>
 </context>
 <context>
@@ -471,7 +471,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Not all transactions will be shown. To view all transactions you need to set txindex=1 in the configuration file (kts.conf).</source>
-        <translation>Toutes les transaction ne seront pas affichés. Pour voir toutes les transactions, vous devez régler txindex=1 dans le fichier de configuration (kts.conf).</translation>
+        <translation>Toutes les transactions ne seront pas affichées. Pour voir toutes les transactions, vous devez régler txindex=1 dans le fichier de configuration (kts.conf).</translation>
     </message>
 </context>
 <context>
@@ -520,7 +520,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Octets:</translation>
+        <translation>Octets :</translation>
     </message>
     <message>
         <source>Fee:</source>
@@ -532,11 +532,11 @@ pour le staking</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Résidu:</translation>
+        <translation>Résidu :</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Monnaie rendue:</translation>
+        <translation>Monnaie rendue :</translation>
     </message>
     <message>
         <source>Tree mode</source>
@@ -580,7 +580,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Received with label</source>
-        <translation>Reçu avec label</translation>
+        <translation>Reçu avec le label</translation>
     </message>
     <message>
         <source>Received with address</source>
@@ -588,7 +588,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>After Fee: </source>
-        <translation>Après les frais:</translation>
+        <translation>Après les frais :</translation>
     </message>
     <message>
         <source>OK</source>
@@ -664,7 +664,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Please switch to "List mode" to use this function.</source>
-        <translation>Veuillez changer pour le "Mode liste" afin d'utiliser cette fonction</translation>
+        <translation>Veuillez basculer vers le "Mode liste" pour utiliser cette fonction</translation>
     </message>
     <message>
         <source>highest</source>
@@ -732,7 +732,7 @@ pour le staking</translation>
     </message>
     <message>
         <source>Transactions with higher priority are more likely to get included into a block.</source>
-        <translation>Les transactions avec une priorité plus haute ont plus de chance d'être incluses dans un bloque.</translation>
+        <translation>Les transactions avec une priorité plus haute ont plus de chance d'être incluses dans un bloc.</translation>
     </message>
     <message>
         <source>This label turns red, if the priority is smaller than "medium".</source>
@@ -819,19 +819,19 @@ pour le staking</translation>
     </message>
     <message>
         <source>Bytes:</source>
-        <translation>Octets:</translation>
+        <translation>Octets :</translation>
     </message>
     <message>
         <source>Dust:</source>
-        <translation>Résidu:</translation>
+        <translation>Résidu :</translation>
     </message>
     <message>
         <source>Change:</source>
-        <translation>Monnaie rendue:</translation>
+        <translation>Monnaie rendue :</translation>
     </message>
     <message>
         <source>After Fee: </source>
-        <translation>Après les frais:</translation>
+        <translation>Après les frais :</translation>
     </message>
     <message>
         <source>CANCEL</source>
@@ -903,7 +903,7 @@ stake in your behalf, keeping the keys in a secure place offline.</source>
     </message>
     <message>
         <source>Delegate or Accept KTS delegation</source>
-        <translation>Faire une procuration our accepter une procuration KTS.</translation>
+        <translation>Faire une procuration our accepter une procuration KTS</translation>
     </message>
     <message>
         <source>Delegate</source>
@@ -923,7 +923,7 @@ stake in your behalf, keeping the keys in a secure place offline.</source>
     </message>
     <message>
         <source>No contacts available, you can go to the contacts screen and add some there!</source>
-        <translation>Aucun contact enregistré, vous pouvez aller dans l'écran des contacts et en ajouter!</translation>
+        <translation>Aucun contact enregistré, vous pouvez aller dans l'écran des contacts et en ajouter !</translation>
     </message>
     <message>
         <source>Invalid entry</source>
@@ -1057,7 +1057,7 @@ stake in your behalf, keeping the keys in a secure place offline.</source>
     </message>
     <message>
         <source>Amount of KTS staked.</source>
-        <translation>Le montant de KTS et de zKTS en staking</translation>
+        <translation>Le montant de KTS et de zKTS en staking.</translation>
     </message>
     <message>
         <source>All</source>
@@ -1103,7 +1103,7 @@ stake in your behalf, keeping the keys in a secure place offline.</source>
         <source>You can verify the staking activity in the status bar at the top right of the wallet.
 It will start automatically as soon as the wallet has enough confirmations on any unspent balances, and the wallet has synced.</source>
         <translation>Vous pouvez vérifier l'activité de staking via la barre de statut au dessus du portefeuille.
-Il commencera automatiquement dès que le portefeuille aura assez de confirmations sur les transactions et qu'il sera complètement synchronisé.</translation>
+Il commencera automatiquement dès que le portefeuille aura assez de confirmations (~600) sur les transactions et qu'il sera complètement synchronisé.</translation>
     </message>
     <message>
         <source>You have no staking rewards</source>
@@ -1111,7 +1111,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>No charts library</source>
-        <translation>Pas de librairie de graphiques</translation>
+        <translation>Pas de bibliothèque graphique</translation>
     </message>
     <message>
         <source>Loading chart..</source>
@@ -1119,11 +1119,11 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Error loading chart, invalid show option</source>
-        <translation>Erreur de chargement du graphe, options non valides</translation>
+        <translation>Erreur de chargement du graphe, option non valide</translation>
     </message>
     <message>
         <source>Error loading chart: %1</source>
-        <translation>Erreur chargement du graphique: %1</translation>
+        <translation>Erreur de chargement du graphique : %1</translation>
     </message>
 </context>
 <context>
@@ -1165,7 +1165,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>This will unlock your wallet fully, so that anyone with access to it can spend until the wallet is closed or locked again.</source>
-        <translation>Cela va déverrouiller votre portefeuille totalement et tout ceux qui y ont accès peuvent dépenser jusqu'à ce que le portefeuille soit fermé ou verrouillé.</translation>
+        <translation>Cela va déverrouiller votre portefeuille totalement et tout ceux qui y ont accès peuvent dépenser jusqu'à ce que le portefeuille soit fermé ou verrouillé à nouveau.</translation>
     </message>
     <message>
         <source>5000</source>
@@ -1224,7 +1224,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>The label associated with this address list entry</source>
-        <translation>Le label associée à cette entrée de liste d'adresses</translation>
+        <translation>Le label associé à cette entrée de liste d'adresses</translation>
     </message>
     <message>
         <source>&amp;Address</source>
@@ -1232,7 +1232,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>The address associated with this address list entry. This can only be modified for sending addresses.</source>
-        <translation>L'adresse associée à cette entrée de liste d'adresses. Ceci ne peut être modifié que pour les adresses d'envoi.</translation>
+        <translation>L'adresse associée à cette entrée de liste d'adresse. Ceci ne peut être modifié que pour les adresses d'envoi.</translation>
     </message>
     <message>
         <source>New receiving address</source>
@@ -1264,7 +1264,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>New key generation failed.</source>
-        <translation>La création de la nouvelle clé à échoué</translation>
+        <translation>La création de la nouvelle clé a échoué.</translation>
     </message>
 </context>
 <context>
@@ -1278,7 +1278,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     <name>FreespaceChecker</name>
     <message>
         <source>A new data directory will be created.</source>
-        <translation>Un nouvelle répertoire sera crée,</translation>
+        <translation>Un nouveau répertoire sera créé.</translation>
     </message>
     <message>
         <source>name</source>
@@ -1290,11 +1290,11 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Path already exists, and is not a directory.</source>
-        <translation>Chemin existe déjà, et n'est pas un répertoire.</translation>
+        <translation>Le chemin existe déjà, et n'est pas un répertoire.</translation>
     </message>
     <message>
         <source>Cannot create data directory here.</source>
-        <translation>Impossible de créer le répertoire pour les données ici</translation>
+        <translation>Impossible de créer le répertoire pour les données ici.</translation>
     </message>
 </context>
 <context>
@@ -1313,7 +1313,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Next super block:</source>
-        <translation>Super bloc suivant:</translation>
+        <translation>Super bloc suivant :</translation>
     </message>
     <message>
         <source>0</source>
@@ -1321,7 +1321,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Blocks to next super block:</source>
-        <translation>Blocs restants jusqu'au Super block suivant:</translation>
+        <translation>Blocs restants jusqu'au super block suivant :</translation>
     </message>
     <message>
         <source>Days to budget payout (estimate):</source>
@@ -1329,15 +1329,15 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Allotted budget:</source>
-        <translation>Budget alloué:</translation>
+        <translation>Budget alloué :</translation>
     </message>
     <message>
         <source>Budget left:</source>
-        <translation>Budget restant:</translation>
+        <translation>Budget restant :</translation>
     </message>
     <message>
         <source>Masternodes count:</source>
-        <translation>Nombre de masternodes:</translation>
+        <translation>Nombre de masternodes :</translation>
     </message>
 </context>
 <context>
@@ -1360,39 +1360,39 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Command-line options</source>
-        <translation>Options de commandes en ligne</translation>
+        <translation>Options de ligne de commande</translation>
     </message>
     <message>
         <source>Usage:</source>
-        <translation>Utilisation</translation>
+        <translation>Utilisation :</translation>
     </message>
     <message>
         <source>command-line options</source>
-        <translation>options en ligne de commande </translation>
+        <translation>options de ligne de commande</translation>
     </message>
     <message>
         <source>UI Options:</source>
-        <translation>Options de l'interface utilisateur:</translation>
+        <translation>Options de l'interface utilisateur :</translation>
     </message>
     <message>
         <source>Choose data directory on startup (default: %u)</source>
-        <translation>Choisir le répertoire de données au démarrage (par défaut: %u)</translation>
+        <translation>Choisir le répertoire de données au démarrage (par défaut : %u)</translation>
     </message>
     <message>
         <source>Show splash screen on startup (default: %u)</source>
-        <translation>Afficher l'écran de démarrage au démarrage (par défaut: %u)</translation>
+        <translation>Afficher l'écran de démarrage au lancement (par défaut : %u)</translation>
     </message>
     <message>
         <source>Set language, for example "de_DE" (default: system locale)</source>
-        <translation>Définir la langue, par exemple "de_DE" (par défaut: paramètres régionaux du système)</translation>
+        <translation>Définir la langue, par exemple "de_DE" (par défaut : paramètres régionaux du système)</translation>
     </message>
     <message>
         <source>Start minimized</source>
-        <translation>Démarrer minimiser</translation>
+        <translation>Démarrer réduit</translation>
     </message>
     <message>
         <source>Set SSL root certificates for payment request (default: -system-)</source>
-        <translation>Définir les certificats racine SSL pour les demandes de paiement (par défaut: -system-)</translation>
+        <translation>Définir les certificats racine SSL pour les demandes de paiement (par défaut : -system-)</translation>
     </message>
     <message>
         <source>OK</source>
@@ -1403,7 +1403,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     <name>Intro</name>
     <message>
         <source>Welcome</source>
-        <translation>Bienvenu</translation>
+        <translation>Bienvenue</translation>
     </message>
     <message>
         <source>Welcome to KTS Core.</source>
@@ -1415,7 +1415,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>KTS Core will download and store a copy of the KTS block chain. At least %20MB of data will be stored in this directory, and it will grow over time. The wallet will also be stored in this directory.</source>
-        <translation>KTS Core téléchargera et stockera une copie de la chaîne de blocs KTS. Au moins %1 Go de données sera stocké dans ce répertoire, et il va augmenter au fil du temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
+        <translation>KTS Core téléchargera et stockera une copie de la chaîne de blocs KTS. Au moins %1 Go de données seront stockés dans ce répertoire, et cela va augmenter au fil du temps. Le portefeuille sera également stocké dans ce répertoire.</translation>
     </message>
     <message>
         <source>Use the default data directory</source>
@@ -1531,7 +1531,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Intro</source>
-        <translation>intro</translation>
+        <translation>Intro</translation>
     </message>
     <message>
         <source>Name</source>
@@ -1547,7 +1547,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;To create a KTS Masternode you must dedicate 3.000 KTS (the unit of KTS) to the network (however, these coins are still yours and will never leave your possession). &lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;You can deactivate the node and unlock the coins at any time.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pour créer un Masternode KTS vous devez dédier 3.000 KTS (l'unité de KTS) au réseau (notez que ces monnaies restent les votres et ne quitteront jamais votre portefeuille)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt; Vous pouvez désactiver votre noeud et libérer vos monnaies en tous temps. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Pour créer un Masternode KTS vous devez dédier 3 000 KTS (l'unité de KTS) au réseau (notez que ces monnaies restent les votres et ne quitteront jamais votre portefeuille)&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt; Vous pouvez désactiver votre noeud et libérer vos monnaies en tous temps. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Make sure you have this amount of coins.</source>
@@ -1559,7 +1559,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;A transaction of 3,000 KTS will be made&lt;/p&gt;&lt;p&gt;to a new empty address in your wallet.&lt;/p&gt;&lt;p&gt;The Address is labeled under the master node's name.&lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</source>
-        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Une transaction de 10 000 KTS sera effectuée &lt;/p&gt;&lt;p&gt; vers une nouvelle adresse de votre partefeuille.&lt;/p&gt;&lt;p&gt; L'adresse est étiquettée avec le nom de masternode. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
+        <translation>&lt;html&gt;&lt;head/&gt;&lt;body&gt;&lt;p&gt;Une transaction de 3 000 KTS sera effectuée &lt;/p&gt;&lt;p&gt; vers une nouvelle adresse de votre portefeuille.&lt;/p&gt;&lt;p&gt; L'adresse est étiquettée avec le nom du masternode. &lt;/p&gt;&lt;/body&gt;&lt;/html&gt;</translation>
     </message>
     <message>
         <source>Set Master Node’s IP and port</source>
@@ -1571,11 +1571,11 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Enter IP address</source>
-        <translation>Entrer l'adresse IP</translation>
+        <translation>Entrez l'adresse IP</translation>
     </message>
     <message>
         <source>Enter Port</source>
-        <translation>Entrer le port</translation>
+        <translation>Entrez le port</translation>
     </message>
     <message>
         <source>CANCEL</source>
@@ -1595,15 +1595,15 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>BACK</source>
-        <translation>PRÉCÉDENT</translation>
+        <translation>PRÉCÉDANT</translation>
     </message>
     <message>
         <source>address label cannot be empty</source>
-        <translation>L'étiquette de l'adresse ne peut rester vide</translation>
+        <translation>L'étiquette de l'adresse ne peut être vide</translation>
     </message>
     <message>
         <source>IP or port cannot be empty</source>
-        <translation>L'adresse IP ou le port ne peuvent rester vide</translation>
+        <translation>L'adresse IP ou le port ne peuvent être vide</translation>
     </message>
     <message>
         <source>Invalid port number</source>
@@ -1611,7 +1611,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Prepare master node failed..</source>
-        <translation>La préparation du masternode a échoué.</translation>
+        <translation>La préparation du masternode a échoué..</translation>
     </message>
     <message>
         <source>Invalid masternode.conf file</source>
@@ -1627,7 +1627,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Master node created!</source>
-        <translation>Masternode créé!</translation>
+        <translation>Masternode créé !</translation>
     </message>
     <message>
         <source>masternode.conf file doesn't exists</source>
@@ -1635,7 +1635,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>The recipient address is not valid, please recheck.</source>
-        <translation>L'adresse du destinataire n'est pas valide, revérifiez SVP.</translation>
+        <translation>L'adresse du destinataire n'est pas valide, Vérifiez SVP.</translation>
     </message>
     <message>
         <source>The amount to pay must be larger than 0.</source>
@@ -1659,7 +1659,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>The transaction was rejected! This might happen if some of the coins in your wallet were already spent, such as if you used a copy of wallet.dat and coins were spent in the copy but not marked as spent here.</source>
-        <translation>La transaction a été refusée! Cela peut arriver lorsque certaines pièces de votre portefeuille ont déjà été dépensées, par exemple lorsque vous utilisez une copie de votre wallet.dat et que les pièces ont été marquées comme dépensées dans la copie, mais pas dans ce portefeuille.</translation>
+        <translation>La transaction a été refusée ! Cela peut arriver lorsque certaines pièces de votre portefeuille ont déjà été dépensées, par exemple lorsque vous utilisez une copie de votre wallet.dat et que les pièces ont été marquées comme dépensées dans la copie, mais pas dans ce portefeuille.</translation>
     </message>
     <message>
         <source>Error: The wallet was unlocked only to anonymize coins.</source>
@@ -1671,7 +1671,7 @@ Il commencera automatiquement dès que le portefeuille aura assez de confirmatio
     </message>
     <message>
         <source>Error: The wallet was unlocked only to anonymize coins. Unlock canceled.</source>
-        <translation>Erreur: Le portefeuille a été dévérouillé uniquement pour anonymiser les pièces. Déverouillage annulé.</translation>
+        <translation>Erreur : Le portefeuille a été dévérouillé uniquement pour anonymiser les pièces. Déverouillage annulé.</translation>
     </message>
 </context>
 <context>
@@ -1735,7 +1735,7 @@ and vote on the treasury system receiving a periodic reward.</source>
         <source>Cannot start masternode, the collateral transaction has not been accepted by the network.
 Please wait few more minutes.</source>
         <translation>Impossible de démarrer le masternode, la transaction du dépôt de garantie n'a pas encore été acceptée par le réseau.
-S'il vous plaît attendez quelques minutes de plus.</translation>
+S'il vous plaît attendez quelques minutes supplémentaires.</translation>
     </message>
     <message>
         <source>Remote Masternode Data</source>
@@ -1760,7 +1760,7 @@ ce portefeuille (sélectionnez le masternode dans la liste et appuyez sur "Déma
     </message>
     <message>
         <source>Masternode exported!, check your clipboard</source>
-        <translation>Masternode exporté!, vérifier votre presse-papier</translation>
+        <translation>Masternode exporté ! Vérifiez votre presse-papier</translation>
     </message>
     <message>
         <source>Delete Masternode</source>
@@ -1771,9 +1771,9 @@ ce portefeuille (sélectionnez le masternode dans la liste et appuyez sur "Déma
 %1
 
 Are you sure?</source>
-        <translation>Vous vous apprêtez à supprimer le masternode:
+        <translation>Vous vous apprêtez à supprimer le masternode :
 %1
-Confirmez-vous?</translation>
+Confirmez-vous ?</translation>
     </message>
     <message>
         <source>Invalid masternode.conf file</source>
@@ -1789,7 +1789,7 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>Not enough balance to create a masternode, 3,000 KTS required.</source>
-        <translation>Fonds insuffisant pour créer un masternode, 10 000 KTS sont requis.</translation>
+        <translation>Fond insuffisant pour créer un masternode, 3 000 KTS sont requis.</translation>
     </message>
     <message>
         <source>Error creating masternode</source>
@@ -1808,7 +1808,7 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>Public Key:</source>
-        <translation>Clé publique:</translation>
+        <translation>Clé publique :</translation>
     </message>
     <message>
         <source>492526e7fa3c810b35016...40a5df85ee227ab00b1156994</source>
@@ -1816,7 +1816,7 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>Address: </source>
-        <translation>Adresse:</translation>
+        <translation>Adresse :</translation>
     </message>
     <message>
         <source>127.0.0.2:43223</source>
@@ -1824,11 +1824,11 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>Collaterall tx id:</source>
-        <translation>Collatéral tx id:</translation>
+        <translation>Collatéral tx id :</translation>
     </message>
     <message>
         <source>Output index:</source>
-        <translation>Index de sortie:</translation>
+        <translation>Index de sortie :</translation>
     </message>
     <message>
         <source>1 Inputs</source>
@@ -1931,11 +1931,11 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>&amp;Main</source>
-        <translation>Principal</translation>
+        <translation>&amp;Principal</translation>
     </message>
     <message>
         <source>Size of &amp;database cache</source>
-        <translation>Taille du cache de base de données</translation>
+        <translation>Taille du &amp;cache de la base de données</translation>
     </message>
     <message>
         <source>MB</source>
@@ -1943,7 +1943,7 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>Number of script &amp;verification threads</source>
-        <translation>Nombre de fil pour les scripts de vérification</translation>
+        <translation>Nombre de taches &amp;pour les scripts de vérification</translation>
     </message>
     <message>
         <source>(0 = auto, &lt;0 = leave that many cores free)</source>
@@ -1951,11 +1951,11 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>W&amp;allet</source>
-        <translation>Portefeuille</translation>
+        <translation>P&amp;ortefeuille</translation>
     </message>
     <message>
         <source>If you disable the spending of unconfirmed change, the change from a transaction&lt;br/&gt;cannot be used until that transaction has at least one confirmation.&lt;br/&gt;This also affects how your balance is computed.</source>
-        <translation>SI vous désactivez la dépense de la monnaire non confirmée, la monnaie rendue sur une transaction &lt;br/&gt;ne peut pas être utilisée tant que celle-ci n'a pas reçue au moins une confirmation &lt;br/&gt;Ceci implique également la manière dont votre solde est calculé.</translation>
+        <translation>Si vous désactivez la dépense de la monnaire non confirmée, la monnaie rendue sur une transaction &lt;br/&gt;ne peut pas être utilisée tant que celle-ci n'a pas reçu au moins une confirmation &lt;br/&gt;Ceci implique également la manière dont votre solde est calculé.</translation>
     </message>
     <message>
         <source>Automatically open the KTS client port on the router. This only works when your router supports UPnP and it is enabled.</source>
@@ -1979,11 +1979,11 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>Automatically start KTS after logging in to the system.</source>
-        <translation>Démarrez KTS automatiquement après vous être connecté au système.</translation>
+        <translation>Démarrez KTS automatiquement après avoir ouvert votre session.</translation>
     </message>
     <message>
         <source>&amp;Start KTS on system login</source>
-        <translation>Démarrer KTS au démarrage système</translation>
+        <translation>&amp;Lancer KTS au démarrage</translation>
     </message>
     <message>
         <source>Whether to show coin control features or not.</source>
@@ -2003,11 +2003,11 @@ Confirmez-vous?</translation>
     </message>
     <message>
         <source>&amp;Spend unconfirmed change</source>
-        <translation>Dépenser la monnaie non confirmée</translation>
+        <translation>&amp;Dépenser la monnaie non confirmée</translation>
     </message>
     <message>
         <source>&amp;Network</source>
-        <translation>Réseau</translation>
+        <translation>&amp;Réseau</translation>
     </message>
     <message>
         <source>The user interface language can be set here. This setting will take effect after restarting KTS.</source>
@@ -2016,16 +2016,16 @@ Confirmez-vous?</translation>
     <message>
         <source>Language missing or translation incomplete? Help contributing translations here:
 https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</source>
-        <translation>Langue manquante ou traduction incomplète? Aidez-nous à traduire ce projet ici:
+        <translation>Langue manquante ou traduction incomplète ? Aidez-nous à traduire ce projet ici :
 https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Map port using &amp;UPnP</source>
-        <translation>Répertorier les port utilisant UPnP</translation>
+        <translation>Répertorier les ports utilisant UPnP</translation>
     </message>
     <message>
         <source>Enable automatic minting of KTS units to zKTS</source>
-        <translation>Activé l'auto-monnayage de KTS unités en zKTS</translation>
+        <translation>Activer l'auto-monnayage de KTS unités en zKTS</translation>
     </message>
     <message>
         <source>Enable zKTS Automint</source>
@@ -2049,7 +2049,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Wait with automatic conversion to Zerocoin until enough KTS for this denomination is available</source>
-        <translation>Met en attente la conversion automatique Zerocoin jusqu'à ce qu'il y ai suffisament de KTS disponibles pour la dénomination demandée</translation>
+        <translation>Met en attente la conversion automatique Zerocoin jusqu'à ce qu'il y ait suffisament de KTS disponibles pour la dénomination demandée</translation>
     </message>
     <message>
         <source>Preferred Automint zKTS Denomination</source>
@@ -2057,7 +2057,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Stake split threshold:</source>
-        <translation>Seuil de partage du Stake</translation>
+        <translation>Seuil de partage du Stake :</translation>
     </message>
     <message>
         <source>Connect to the KTS network through a SOCKS5 proxy.</source>
@@ -2065,7 +2065,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Proxy &amp;IP:</source>
-        <translation>IP du proxy:</translation>
+        <translation>IP du proxy :</translation>
     </message>
     <message>
         <source>IP address of the proxy (e.g. IPv4: 127.0.0.1 / IPv6: ::1)</source>
@@ -2073,7 +2073,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>&amp;Port:</source>
-        <translation>Port:</translation>
+        <translation>&amp;Port :</translation>
     </message>
     <message>
         <source>Port of the proxy (e.g. 9050)</source>
@@ -2081,7 +2081,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>&amp;Window</source>
-        <translation>Fenêtre</translation>
+        <translation>&amp;Fenêtre</translation>
     </message>
     <message>
         <source>Show only a tray icon after minimizing the window.</source>
@@ -2093,27 +2093,27 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Minimize instead of exit the application when the window is closed. When this option is enabled, the application will be closed only after selecting Quit in the menu.</source>
-        <translation>Minimiser l'application putôt que de la quitter lorsque la fenêtre est fermée. Quant cette option est activée, l'application ne sera fermé qu'après avoir choisi la fonction Quitter dans le menu.</translation>
+        <translation>Minimiser l'application putôt que de la quitter lorsque la fenêtre est fermée. Quant cette option est activée, l'application ne sera fermée qu'après avoir choisi la fonction Quitter dans le menu.</translation>
     </message>
     <message>
         <source>M&amp;inimize on close</source>
-        <translation>Minimiser sur fermeture</translation>
+        <translation>M&amp;inimiser sur fermeture</translation>
     </message>
     <message>
         <source>&amp;Display</source>
-        <translation>Afficher</translation>
+        <translation>&amp;Afficher</translation>
     </message>
     <message>
         <source>User Interface &amp;language:</source>
-        <translation>Language de l'interface utilisateur:</translation>
+        <translation>Language de l'interface utilisateur :</translation>
     </message>
     <message>
         <source>User Interface Theme:</source>
-        <translation>Thème de l'interface utilisateur:</translation>
+        <translation>Thème de l'interface utilisateur :</translation>
     </message>
     <message>
         <source>Unit to show amounts in:</source>
-        <translation>Unité d'affichage des montants:</translation>
+        <translation>Unité d'affichage des montants :</translation>
     </message>
     <message>
         <source>Choose the default subdivision unit to show in the interface and when sending coins.</source>
@@ -2145,7 +2145,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Active command-line options that override above options:</source>
-        <translation>Options de ligne de commande actives qui remplacent les options ci-dessus:</translation>
+        <translation>Options de ligne de commande actives qui remplacent les options ci-dessus :</translation>
     </message>
     <message>
         <source>Reset all client options to default.</source>
@@ -2153,15 +2153,15 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>&amp;Reset Options</source>
-        <translation>Réinitialiser les options</translation>
+        <translation>&amp;Réinitialiser les options</translation>
     </message>
     <message>
         <source>&amp;OK</source>
-        <translation>OK</translation>
+        <translation>&amp;OK</translation>
     </message>
     <message>
         <source>&amp;Cancel</source>
-        <translation>Annuler</translation>
+        <translation>&amp;Annuler</translation>
     </message>
     <message>
         <source>Any</source>
@@ -2185,7 +2185,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>Client will be shutdown, do you want to proceed?</source>
-        <translation>Le client va être éteint, voulez-vous procéder ?</translation>
+        <translation>Le client va s'arreter, voulez-vous continuer ?</translation>
     </message>
     <message>
         <source>This change would require a client restart.</source>
@@ -2220,7 +2220,7 @@ https://www.transifex.com/KlimatasTeam/KlimatasTeam-translations</translation>
     </message>
     <message>
         <source>&amp;Show / Hide</source>
-        <translation>Afficher / Cacher</translation>
+        <translation>&amp;Afficher / Cacher</translation>
     </message>
     <message>
         <source>Show or hide the main Window</source>
@@ -3853,7 +3853,7 @@ Cette option créé un fichier wallet.dat qui peut être employé pour restaurer
     </message>
     <message>
         <source>Command Line Options </source>
-        <translation>Options de la ligen de commande</translation>
+        <translation>Options de la ligne de commande</translation>
     </message>
     <message>
         <source>Open Debug File</source>
